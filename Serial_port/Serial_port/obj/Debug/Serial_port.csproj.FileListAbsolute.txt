@@ -1,0 +1,14 @@
+E:\Graduation Project\Serial_port\Serial_port\bin\Debug\Serial_port.exe.config
+E:\Graduation Project\Serial_port\Serial_port\bin\Debug\Serial_port.exe
+E:\Graduation Project\Serial_port\Serial_port\bin\Debug\Serial_port.pdb
+E:\Graduation Project\Serial_port\Serial_port\obj\Debug\Serial_port.csprojResolveAssemblyReference.cache
+E:\Graduation Project\Serial_port\Serial_port\obj\Debug\Serial_port.csproj.CoreCompileInputs.cache
+E:\Graduation Project\Serial_port\Serial_port\obj\Debug\Serial_port.exe
+E:\Graduation Project\Serial_port\Serial_port\obj\Debug\Serial_port.pdb
+D:\桌面\Socket_DebugSystem\Serial_port\Serial_port\bin\Debug\Serial_port.exe.config
+D:\桌面\Socket_DebugSystem\Serial_port\Serial_port\bin\Debug\Serial_port.exe
+D:\桌面\Socket_DebugSystem\Serial_port\Serial_port\bin\Debug\Serial_port.pdb
+D:\桌面\Socket_DebugSystem\Serial_port\Serial_port\obj\Debug\Serial_port.csprojResolveAssemblyReference.cache
+D:\桌面\Socket_DebugSystem\Serial_port\Serial_port\obj\Debug\Serial_port.csproj.CoreCompileInputs.cache
+D:\桌面\Socket_DebugSystem\Serial_port\Serial_port\obj\Debug\Serial_port.exe
+D:\桌面\Socket_DebugSystem\Serial_port\Serial_port\obj\Debug\Serial_port.pdb

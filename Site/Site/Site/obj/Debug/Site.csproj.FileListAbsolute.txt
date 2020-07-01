@@ -1,0 +1,22 @@
+F:\Graduation Project\Site\Site\Site\bin\Debug\Site.exe.config
+F:\Graduation Project\Site\Site\Site\bin\Debug\Site.exe
+F:\Graduation Project\Site\Site\Site\bin\Debug\Site.pdb
+F:\Graduation Project\Site\Site\Site\obj\Debug\Site.csprojAssemblyReference.cache
+F:\Graduation Project\Site\Site\Site\obj\Debug\Site.Site.resources
+F:\Graduation Project\Site\Site\Site\obj\Debug\Site.Properties.Resources.resources
+F:\Graduation Project\Site\Site\Site\obj\Debug\Site.csproj.GenerateResource.cache
+F:\Graduation Project\Site\Site\Site\obj\Debug\Site.csproj.CoreCompileInputs.cache
+F:\Graduation Project\Site\Site\Site\obj\Debug\Site.exe
+F:\Graduation Project\Site\Site\Site\obj\Debug\Site.pdb
+F:\Graduation Project\Site\Site\Site\obj\Debug\Site.Serial_Port.resources
+D:\桌面\Socket_DebugSystem\Site\Site\Site\bin\Debug\Site.exe.config
+D:\桌面\Socket_DebugSystem\Site\Site\Site\bin\Debug\Site.exe
+D:\桌面\Socket_DebugSystem\Site\Site\Site\bin\Debug\Site.pdb
+D:\桌面\Socket_DebugSystem\Site\Site\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+D:\桌面\Socket_DebugSystem\Site\Site\Site\obj\Debug\Site.Serial_Port.resources
+D:\桌面\Socket_DebugSystem\Site\Site\Site\obj\Debug\Site.Site.resources
+D:\桌面\Socket_DebugSystem\Site\Site\Site\obj\Debug\Site.Properties.Resources.resources
+D:\桌面\Socket_DebugSystem\Site\Site\Site\obj\Debug\Site.csproj.GenerateResource.Cache
+D:\桌面\Socket_DebugSystem\Site\Site\Site\obj\Debug\Site.csproj.CoreCompileInputs.cache
+D:\桌面\Socket_DebugSystem\Site\Site\Site\obj\Debug\Site.exe
+D:\桌面\Socket_DebugSystem\Site\Site\Site\obj\Debug\Site.pdb

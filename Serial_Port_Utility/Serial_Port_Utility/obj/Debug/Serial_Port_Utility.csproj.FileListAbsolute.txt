@@ -1,0 +1,7 @@
+D:\桌面\Socket_DebugSystem\Serial_Port_Utility\Serial_Port_Utility\bin\Debug\Serial_Port_Utility.exe.config
+D:\桌面\Socket_DebugSystem\Serial_Port_Utility\Serial_Port_Utility\bin\Debug\Serial_Port_Utility.exe
+D:\桌面\Socket_DebugSystem\Serial_Port_Utility\Serial_Port_Utility\bin\Debug\Serial_Port_Utility.pdb
+D:\桌面\Socket_DebugSystem\Serial_Port_Utility\Serial_Port_Utility\obj\Debug\Serial_Port_Utility.csprojResolveAssemblyReference.cache
+D:\桌面\Socket_DebugSystem\Serial_Port_Utility\Serial_Port_Utility\obj\Debug\Serial_Port_Utility.csproj.CoreCompileInputs.cache
+D:\桌面\Socket_DebugSystem\Serial_Port_Utility\Serial_Port_Utility\obj\Debug\Serial_Port_Utility.exe
+D:\桌面\Socket_DebugSystem\Serial_Port_Utility\Serial_Port_Utility\obj\Debug\Serial_Port_Utility.pdb
